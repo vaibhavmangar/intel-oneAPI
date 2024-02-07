@@ -8,7 +8,14 @@
   This section must include UML Daigrms and prototype description
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   1. Intel-Optimized Python
+      a) Numpy b) Pandas c) Scipy d) Numba
+   2. Machine Learning – Scikit Learn
+   3. Deep Learning
+      a) Tensorflow
+      b) Intel Neural Compressor
+   4. Data Analytics – Modin
+   5. We will use FAISS vector database for the project.
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
