@@ -1,8 +1,8 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - AI Ninjas
+#### Problem Statement - NLP model that generates creative short stories or poems based on given prompts, leveraging the oneAPI® Toolkit and Gemini architecture to produce coherent and engaging narratives.
+#### Team Leader Email - adarshk.ei21@rvce.edu.in
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
